@@ -5,7 +5,7 @@ Name: 박지수
 
 email: jisu20000609@gmail.com      
 github adress: [jisoo0609][github]  
-Instagram: [jisoo__0609][instagram]
+__Instagram: [jisoo__0609][instagram]__
 
 ---
 
