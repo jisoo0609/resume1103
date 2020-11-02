@@ -1,16 +1,26 @@
 # PROFILE
 ---
 <img src=tkwls.jpg height=150 width=150> 
-Name: 박지수
+* Name: 박지수
 
-E-mail: jisu20000609@gmail.com  
-github adress: [jisoo0609][github]       
-*Instagram: [jisoo__0609][instagram]*         
-  
+* E-mail: jisu20000609@gmail.com  
+* github adress: [jisoo0609][github]       
+* *Instagram: [jisoo__0609][instagram]*         
+
+###### 
+
 ---
 
 #### 소속 : [한림대학교][Hallym]    
 ##### 전공 : [바이오메디컬][biomedical]
+##### 복수전공 : 빅데이터전공
+
+
+### 학력
+마석고등학교 졸업 (2016~2019)    
+한림대학교 바이오메디컬학과 2학년 재학(2019년 입학)
+
+----
 
 ### 관심분야   
 * 생물정보학
