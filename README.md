@@ -1,7 +1,11 @@
 # PROFILE
 ---
-<img src=tkwls.jpg height=150 width=150>
-박지수
+<img src=tkwls.jpg height=150 width=150> 
+Name: 박지수  
+email: jisu20000609@gmail.com
+
+github adress: [jisoo0609][github]  
+Instagram: [jisoo__0609][instagram]
 
 ---
 
@@ -33,8 +37,6 @@
 |오디세이세미나1||1|
 
 
-github adress: [jisoo0609][github]  
-Instagram: [jisoo__0609][instagram]
 
 [github]: http://github.com/jisoo0609
 [instagram]: https://www.instagram.com/jisoo__0609/
