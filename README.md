@@ -7,7 +7,7 @@
 * github adress: [jisoo0609][github]       
 * *Instagram: [jisoo__0609][instagram]*         
 
-<img src=2zadf.jpg height=100 width=750>
+<img src=2zadf.jpg height=200 width=750>
 
 
 ---
