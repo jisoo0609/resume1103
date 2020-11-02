@@ -1,11 +1,13 @@
 # PROFILE
 ---
 <img src=tkwls.jpg height=150 width=150> 
-Name: 박지수  
-email: jisu20000609@gmail.com      
-github adress: [jisoo0609][github]  
-*Instagram: [jisoo__0609][instagram]*
+Name: 박지수
 
+email: jisu20000609@gmail.com
+
+github adress: [jisoo0609][github]       
+*Instagram: [jisoo__0609][instagram]*         
+  
 ---
 
 소속 : [한림대학교][Hallym]   
