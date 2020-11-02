@@ -9,8 +9,8 @@ github adress: [jisoo0609][github]
   
 ---
 
-소속 : [한림대학교][Hallym]   
-전공 : [바이오메디컬][biomedical]
+##### 소속 : [한림대학교][Hallym]   
+###### 전공 : [바이오메디컬][biomedical]
 
 ### 관심분야   
 * 생물정보학
