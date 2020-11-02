@@ -3,8 +3,7 @@
 <img src=tkwls.jpg height=150 width=150> 
 Name: 박지수
 
-email: jisu20000609@gmail.com
-
+email: jisu20000609@gmail.com  
 github adress: [jisoo0609][github]       
 *Instagram: [jisoo__0609][instagram]*         
   
