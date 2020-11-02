@@ -1,7 +1,7 @@
 # PROFILE
 ---
 <img src=tkwls.jpg height=150 width=150> 
-__Name: 박지수__  
+## Name: 박지수  
 
 email: jisu20000609@gmail.com      
 github adress: [jisoo0609][github]  
